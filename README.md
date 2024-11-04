@@ -24,6 +24,7 @@ python3 give_kudos.py
 ### Environment Variables
 
 Set the environment variables for your email and password as follows:
+
 ```
 export STRAVA_EMAIL=YOUR_EMAIL
 export STRAVA_PASSWORD=YOUR_PASSWORD
