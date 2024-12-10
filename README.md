@@ -37,4 +37,4 @@ Manual testing was done in Python 3.9.10.
 Let me know if you wish to add anything or if there are any issues!
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-+
+++
